@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:19:5-52
+	xmlns:tools
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:18:5-51
+	xmlns:android
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:21:5-38:19
+MERGED from [com.android.support:support-v13:26.1.0] /home/delaroy/.android/build-cache/4ab645d92209ae0cf31d82c55eddbe468088332c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/delaroy/.android/build-cache/73e95f14489d29d33dec1e0c85adb20e14378583/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.android/build-cache/3fa0a181dd6606c9a89f60c98c16733856fa8420/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.android/build-cache/aa2d2d7c8a7c3f72aa3e0c378a7865d428698d57/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.android/build-cache/2eca622fafa232f9b88999d22016f8a92f86f272/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.android/build-cache/23c1cbb5f9b39c020d3cc312fd56731911fc2799/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.android/build-cache/e27565f1e3de43f3e18d897e474f9907c17fc386/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.android/build-cache/48a7ab78b23eb390f00b7ea5d2cbd577b51bcb77/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.android/build-cache/ac7985eb9674b832999cd23a0c02232e31691325/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.android/build-cache/15cf3fe2839c3fac3359d96d133ada4abe2ab0b9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/delaroy/.android/build-cache/f7bce12bfa91e92c48f526e9dda8ff96a589e6b4/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:24:13-45
+	android:supportsRtl
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:26:13-39
+	tools:ignore
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:27:13-64
+	android:allowBackup
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:22:13-39
+	android:icon
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:23:13-47
+	android:theme
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:25:13-44
+activity#com.delaroystudios.confirmcredential.MainActivity
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:30:17-49
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:29:17-81
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:34:27-74
+activity#com.delaroystudios.confirmcredential.SuccessActivity
+ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:37:9-89
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml:37:19-86
+uses-sdk
+INJECTED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:26.1.0] /home/delaroy/.android/build-cache/4ab645d92209ae0cf31d82c55eddbe468088332c/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/delaroy/.android/build-cache/73e95f14489d29d33dec1e0c85adb20e14378583/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.android/build-cache/3fa0a181dd6606c9a89f60c98c16733856fa8420/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.android/build-cache/aa2d2d7c8a7c3f72aa3e0c378a7865d428698d57/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.android/build-cache/2eca622fafa232f9b88999d22016f8a92f86f272/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.android/build-cache/23c1cbb5f9b39c020d3cc312fd56731911fc2799/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.android/build-cache/e27565f1e3de43f3e18d897e474f9907c17fc386/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.android/build-cache/48a7ab78b23eb390f00b7ea5d2cbd577b51bcb77/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.android/build-cache/ac7985eb9674b832999cd23a0c02232e31691325/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.android/build-cache/15cf3fe2839c3fac3359d96d133ada4abe2ab0b9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/delaroy/.android/build-cache/f7bce12bfa91e92c48f526e9dda8ff96a589e6b4/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /home/delaroy/.android/build-cache/4ab645d92209ae0cf31d82c55eddbe468088332c/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /home/delaroy/.android/build-cache/4ab645d92209ae0cf31d82c55eddbe468088332c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/delaroy/.android/build-cache/73e95f14489d29d33dec1e0c85adb20e14378583/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.android/build-cache/3fa0a181dd6606c9a89f60c98c16733856fa8420/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.android/build-cache/aa2d2d7c8a7c3f72aa3e0c378a7865d428698d57/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.android/build-cache/2eca622fafa232f9b88999d22016f8a92f86f272/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.android/build-cache/23c1cbb5f9b39c020d3cc312fd56731911fc2799/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.android/build-cache/e27565f1e3de43f3e18d897e474f9907c17fc386/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.android/build-cache/48a7ab78b23eb390f00b7ea5d2cbd577b51bcb77/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.android/build-cache/ac7985eb9674b832999cd23a0c02232e31691325/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.android/build-cache/15cf3fe2839c3fac3359d96d133ada4abe2ab0b9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /home/delaroy/.android/build-cache/4ab645d92209ae0cf31d82c55eddbe468088332c/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /home/delaroy/.android/build-cache/4ab645d92209ae0cf31d82c55eddbe468088332c/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/delaroy/.android/build-cache/f7bce12bfa91e92c48f526e9dda8ff96a589e6b4/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/delaroy/.android/build-cache/f7bce12bfa91e92c48f526e9dda8ff96a589e6b4/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/delaroy/.android/build-cache/f7bce12bfa91e92c48f526e9dda8ff96a589e6b4/output/AndroidManifest.xml:26:13-58

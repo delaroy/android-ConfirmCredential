@@ -1,0 +1,4 @@
+#Sun Jan 28 03:16:01 WAT 2018
+base.0=/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

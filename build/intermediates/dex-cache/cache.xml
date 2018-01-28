@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a207875948f25f2db76a75cd6ad8f2f3dd64e7a2">
+        <dex dex="/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70a10a40cf7a2063aa37de1c8f30be0feda1b4b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c10cccf0a0729b3fdb18fe6c92e3d5f4b12bddb/classes.dex" />
+    </item>
+
+</items>

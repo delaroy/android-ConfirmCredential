@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/delaroy/.android/build-cache/3fa0a181dd6606c9a89f60c98c16733856fa8420/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/delaroy/.android/build-cache/3fa0a181dd6606c9a89f60c98c16733856fa8420/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/delaroy/.android/build-cache/3fa0a181dd6606c9a89f60c98c16733856fa8420/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

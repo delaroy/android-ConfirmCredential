@@ -1,0 +1,7 @@
+#Sun Jan 28 22:36:29 WAT 2018
+base.0=/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c10cccf0a0729b3fdb18fe6c92e3d5f4b12bddb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70a10a40cf7a2063aa37de1c8f30be0feda1b4b0/classes.dex
+base.1=/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70a10a40cf7a2063aa37de1c8f30be0feda1b4b0
+file.0=/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c10cccf0a0729b3fdb18fe6c92e3d5f4b12bddb/classes.dex

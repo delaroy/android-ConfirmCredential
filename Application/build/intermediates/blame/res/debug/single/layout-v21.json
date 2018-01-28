@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/newproject/new/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/delaroy/.android/build-cache/e9461f7dc30c7728668227be20459a48b2caa3e2/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
